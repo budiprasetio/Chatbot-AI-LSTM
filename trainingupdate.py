@@ -6,10 +6,10 @@ from nltk.stem import WordNetLemmatizer
 import json
 import pickle
 import numpy as np
-from keras.models import Sequential
-from keras.layers import Dense, Dropout, LSTM
-from keras.optimizers import Adam
-from keras.callbacks import EarlyStopping, Callback
+from keras.models import Sequential # type: ignore
+from keras.layers import Dense, Dropout, LSTM # type: ignore
+from keras.optimizers import Adam # type: ignore
+from keras.callbacks import EarlyStopping, Callback # type: ignore
 from sklearn.utils.class_weight import compute_class_weight
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay, classification_report, precision_recall_fscore_support, accuracy_score
