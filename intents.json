@@ -1165,7 +1165,16 @@
     },
     {
       "tag": "small_talk",
-      "patterns": ["Ceritakan sebuah lelucon", "Apakah ada fakta menarik?", "Ceritakan sesuatu yang menarik", "Berikan saya lelucon", "Ada cerita lucu?", "Apa yang lucu hari ini?", "Ceritakan sesuatu yang membuat saya tertawa"],
+      "patterns": [
+        "Ceritakan sebuah lelucon",
+        "Apakah ada fakta menarik?",
+        "Ceritakan sesuatu yang menarik",
+        "Apa warna favoritmu?",
+        "Berikan saya lelucon",
+        "Ada cerita lucu?",
+        "Apa yang lucu hari ini?",
+        "Ceritakan sesuatu yang membuat saya tertawa"
+      ],
       "responses": [
         "Kenapa mahasiswa selalu membawa pulpen ke kampus? Karena mereka harus siap untuk 'menulis' sejarah!",
         "Apa yang dikatakan mahasiswa saat ditanya kenapa sering terlambat? 'Saya hanya menunggu inspirasi datang!'",
