@@ -107,8 +107,11 @@ Expanded dataset for better chatbot performance.
 Here are the main technologies used in this project:
 
 Backend: Flask, TensorFlow, Keras
+<br/>
 Frontend: HTML, CSS, JavaScript
-Database: SQLite
+<br/>
+Database: MySQL
+<br/>
 Languages: Python
 
 ---
